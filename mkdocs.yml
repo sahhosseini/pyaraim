@@ -1,0 +1,14 @@
+site_name: pyaraim
+theme:
+  name: material
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.superfences
+nav:
+  - Home: index.md
+  - Theory → code: theory.md
+  - Testing toolkit: testing.md
+  - Availability studies: availability.md
+  - Validation: validation.md
+  - MAAST correspondence: maast.md

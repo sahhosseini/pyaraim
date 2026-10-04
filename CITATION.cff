@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it together with the two papers it implements."
+title: "pyaraim: reference implementation of the ARAIM baseline user algorithm"
+version: 0.1.0
+license: BSD-3-Clause
+references:
+  - type: article
+    authors: [{family-names: Blanch, given-names: Juan}, {family-names: Walter, given-names: Todd}, {family-names: Enge, given-names: Per}, {family-names: Lee, given-names: Young}, {family-names: Pervan, given-names: Boris}, {family-names: Rippl, given-names: Markus}, {family-names: Spletter, given-names: Alexandru}, {family-names: Kropp, given-names: Vincent}]
+    title: "Baseline Advanced RAIM User Algorithm and Possible Improvements"
+    journal: "IEEE Transactions on Aerospace and Electronic Systems"
+    volume: 51
+    issue: 1
+    year: 2015
+  - type: conference-paper
+    authors: [{family-names: Blanch, given-names: Juan}, {family-names: Walter, given-names: Todd}, {family-names: Milner, given-names: Carl}, {family-names: Joerger, given-names: Mathieu}, {family-names: Pervan, given-names: Boris}, {family-names: Bouvet, given-names: Denis}]
+    title: "Baseline Advanced RAIM User Algorithm: Proposed Updates"
+    collection-title: "Proceedings of the ION International Technical Meeting"
+    year: 2022
